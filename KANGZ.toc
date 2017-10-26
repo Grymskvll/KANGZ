@@ -1,0 +1,12 @@
+## Interface: 11200
+## Author: Idiot
+## Title: KANGZ
+## Notes: I hate my life
+## Version: 0.I.want.to.die.1
+## DefaultState: enabled
+## SavedVariables: KANGZ_Options
+
+KANGZ.lua
+
+KANGZ_MinimapButton.lua
+KANGZ_MinimapButton.xml
