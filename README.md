@@ -1,3 +1,5 @@
+![I love anime](KANGZ.png)
+
 ## Installation
 Extract into your "World of Warcraft/Interface/Addons" folder. If downloaded directly, remove "-master" from folder name.
 
